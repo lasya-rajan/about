@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Picture1 from '/src/lasya.jpg'; 
-import Image1 from '/src/image1.jpg';
-import Image2 from '/src/image2.jpg';
-import Image3 from '/src/image3.jpg';
-import pdf from '/src/lasyarajanresume.pdf';
-import pdf2 from '/src/lrajandesignportfolio.pdf';
+import Picture1 from '/Users/lasyarajan/about/src/lasya.jpg'; 
+import Image1 from '/Users/lasyarajan/about/src/image1.jpg';
+import Image2 from '/Users/lasyarajan/about/src/image2.jpg';
+import Image3 from '/Users/lasyarajan/about/src/image3.jpg';
+import pdf from '/Users/lasyarajan/about/src/lasyarajanresume.pdf';
+import pdf2 from '/Users/lasyarajan/about/src/lrajandesignportfolio.pdf';
 
 class App extends React.Component {
   render (){
